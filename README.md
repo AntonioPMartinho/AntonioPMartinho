@@ -17,7 +17,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="antoniopmartinho.site" height="30px" src="antoniopmartinho.site" />][website]
+[<img align="left" alt="antoniopmartinho.site" height="30px" src="logo.png" />][antoniopmartinho.site]
 
 <br />
 
