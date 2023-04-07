@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a full-stack development student. 
+## I'm a full-stack developer. 
 
 - 👨‍💻 I’m currently working on back-end development using Python.
 - 💪🏼 Future Goals: Learn more about front-end development
