@@ -4,7 +4,7 @@
 
 ## I'm a full-stack developer. 
 
-- 👨‍💻 I’m currently working on back-end development using Python.
+- 👨‍💻 I’m currently working on a frontend application using React.
 - 💪🏼 Future Goals: Learn more about front-end development
 - ⚡ Fun fact: I love to ride motorcycles.
 
