@@ -11,9 +11,9 @@
 ---
 
 
-### Contact with me 📝
+### Contact me 📝
 
-[<img align="left" alt="antoniopmartinho.site" height="30px" src="logo.png" />][antoniopmartinho.site]
+[<img align="left" alt="antoniopmartinho.site" height="30px" src="logo.png" />][antoniopmartinho.pt]
 
 <br />
 
